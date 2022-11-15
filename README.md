@@ -1,8 +1,8 @@
 # silverthreadedclothing
 
 This repository contains supplementary materials relating to the manuscript 
-"The molecular effect of wearing silver-threaded clothing on the human skin" by 
-Alexey Melnik, Chris Callewaert, Kathleen Dorrestein, Rosie Broadhead, Jeremiah Minich, 
+["The molecular effect of wearing silver-threaded clothing on the human skin"](https://chemrxiv.org/engage/chemrxiv/article-details/6319172c185684dd170df8b8) 
+by Alexey Melnik, Chris Callewaert, Kathleen Dorrestein, Rosie Broadhead, Jeremiah Minich, 
 Madeleine Ernst ([@madeleineernst](https://github.com/madeleineernst)), Greg Humphrey, 
 Gail Ackermann, Rob Gathercole, Alexander Aksenov, Rob Knight, and Pieter Dorrestein.
 
